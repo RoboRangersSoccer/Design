@@ -1,5 +1,4 @@
 git add .
 git commit -m "commit"
 git branch -M main
-git remote add origin robosoccer7@gmail.com
 git push -u origin main
